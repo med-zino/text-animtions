@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .item {
+    width: 300px;
+    height: 200px;
+    margin: 50px auto;
+    padding-top: 75px;
+    text-align: center;
+    color: black;
+    font-size: 3em;
+  }
+  .item0 {
+    width: 300px;
+    height: 200px;
+    margin: 00px auto;
+    padding-top: 75px;
+    text-align: center;
+    color: white;
+    font-size: 3em;
+  }
+  
+  .redstarter {
+    background: black;
+    height: 500PX;
+
+  }
